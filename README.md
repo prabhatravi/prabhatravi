@@ -9,6 +9,10 @@
     <a href="https://leetcode.com/prabhatravi">
         <b>LeetCode</b>
     </a>
+    ❅
+    <a href="https://auth.geeksforgeeks.org/user/prabhatravi/">
+        <b>GeeksForGeeks</b>
+    </a>
 </p>
 
 <p align="center">
