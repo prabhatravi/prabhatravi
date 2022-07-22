@@ -2,6 +2,7 @@
 <h3 align="center">Backend Developer | AI Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
+<!--
     <a href="https://www.hackerrank.com/prabhatravi">
         <b>HackerRank</b>
     </a>
@@ -9,7 +10,7 @@
     <a href="https://leetcode.com/prabhatravi">
         <b>LeetCode</b>
     </a>
-    ❅
+    ❅ -->
     <a href="https://auth.geeksforgeeks.org/user/prabhatravi/">
         <b>GeeksForGeeks</b>
     </a>
@@ -22,7 +23,7 @@
     </a>
 </p>
 
-- 🌱 I’m Currently Learning **DevOps, Machine Learning**
+- 🌱 I’m Currently Learning **Competitive Programming, DevOps and Machine Learning**
 
 - 💬 Ask Me About **C, C++, Python, Go, System Design, Embedded Systems, Microservice, Distributed Systems**
 
