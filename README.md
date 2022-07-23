@@ -23,7 +23,7 @@
     </a>
 </p>
 
-- 🌱 I’m learning new things - Because learning new things is my hobby.
+- 🌱 I'm learing new things - Because learning new things is my hobby.
 
 - 💬 Ask Me About **C, C++, Python, Go, System Design, Embedded Systems, Microservice, Distributed Systems**
 
