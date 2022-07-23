@@ -23,7 +23,7 @@
     </a>
 </p>
 
-- 🌱 I’m Currently Learning **Competitive Programming, DevOps and Machine Learning**
+- 🌱 I’m learning new things - Because learning new things is my hobby.
 
 - 💬 Ask Me About **C, C++, Python, Go, System Design, Embedded Systems, Microservice, Distributed Systems**
 
