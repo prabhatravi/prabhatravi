@@ -6,11 +6,11 @@
     <a href="https://www.hackerrank.com/prabhatravi">
         <b>HackerRank</b>
     </a>
-    ❅
-    <a href="https://leetcode.com/prabhatravi">
+    ❅ -->
+    <a href="https://leetcode.com/binaryfetch_9">
         <b>LeetCode</b>
     </a>
-    ❅ -->
+    ❅
     <a href="https://auth.geeksforgeeks.org/user/prabhatravi/">
         <b>GeeksForGeeks</b>
     </a>
