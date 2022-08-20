@@ -11,7 +11,7 @@
         <b>LeetCode</b>
     </a>
     ❅
-    <a href="https://auth.geeksforgeeks.org/user/prabhatravi/">
+    <a href="https://auth.geeksforgeeks.org/user/binaryfetch/">
         <b>GeeksForGeeks</b>
     </a>
     ❅
