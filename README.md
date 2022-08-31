@@ -7,7 +7,7 @@
         <b>HackerRank</b>
     </a>
     ❅ -->
-    <a href="https://leetcode.com/binaryfetch_9">
+    <a href="https://leetcode.com/prabhatravi">
         <b>LeetCode</b>
     </a>
     ❅
